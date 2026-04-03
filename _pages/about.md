@@ -19,7 +19,6 @@ Education
 
 Reaserch Interests
 ======
-My research interests include
 * Causal Inference
 * Causal Attribution
 * Causal Discovery
