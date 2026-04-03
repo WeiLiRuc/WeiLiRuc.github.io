@@ -5,10 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. Hu Wenjie, Wang Ruoyu, **Li Wei$$^\dagger$$**, and **Miao Wang$$^\dagger$$** (2026). Semiparametric efficient fusion of individual data and summary statistics. *Journal of the American Statistical Association*, in press.
+1. Hu Wenjie, Wang Ruoyu, **Li Wei$$^\dagger$$**, and Miao Wang$$^\dagger$$ (2026). Semiparametric efficient fusion of individual data and summary statistics. *Journal of the American Statistical Association*, in press.
 1. Shuai Kang, Liu Lan, **Li Wei$$^\dagger$$**, and He Yangbo (2026). Mediation analysis with unmeasured confounding between parallel mediators and outcome. *Electronic Journal of Statistics*, in press.
 1. Shan Jiawei, **Li Wei$$^\dagger$$**, and Ai Chunrong (2026). Efficient nonparametric inference for mediation analysis with nonignorable missing confounders. *Journal of the American Statistical Association*, in press.
-1. Zou Jing, **Li Wei$$^\dagger$$**, and **Lin Wei$$^\dagger$$** (2026). Semiparametric causal discovery and inference with invalid instruments. *Statistica Sinica*, in press.
+1. Zou Jing, **Li Wei$$^\dagger$$**, and Lin Wei$$^\dagger$$ (2026). Semiparametric causal discovery and inference with invalid instruments. *Statistica Sinica*, in press.
 1. **Li Wei**, Liu Jiapeng, Ding Peng, and Geng Zhi (2025). Identification and multiply robust estimation of causal effects via instrumental variables from an auxiliary population. *Journal of the American Statistical Association*, in press.
 1. Zhang Chao, Geng Zhi, **Li Wei**, and Ding Peng (2025). Identifying and bounding the probability of necessity for causes of effects with ordinal outcomes. *Biometrika*, 112(3): asaf049.
 1. Shan Jiawei, Wang Ting, **Li Wei$$^\dagger$$**, and Ai Chunrong (2025). Nonparametric estimation of path-specific effects in the presence of nonignorable missing covariates. *Scandinavian Journal of Statistics*, 52(4): 1556-1593.
