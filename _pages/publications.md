@@ -17,7 +17,7 @@ author_profile: true
 1. **Li Wei**, Liu Yuan, Luo Shanshan, and Geng Zhi (2025). Causal inference with outcomes truncated by death and missing not at random. Statistics in Medicine, 44: e70126.
 1. Luo Shanshan, Zhang Yechi, **Li Wei$$^\dagger$$**, and Geng Zhi (2025). Multiply robust estimation of causal effects using linked data. Computational Statistics & Data Analysis, 209: 108175.
 1. Luo Shanshan, Min Jiaqi, **Li Wei**, Wang Xueli, and Geng Zhi (2025). A comparative analysis of different adjustment sets using propensity score based estimators. Computational Statistics & Data Analysis, 203: 108079.
-1. Luo Shanshan, **Li Wei$$^\dagger$$**, Miao Wang, and He Yangbo* (2024). Identification and estimation of causal effects in the presence of confounded principal strata. Statistics in Medicine, 43(22): 4372-4387.
+1. Luo Shanshan, **Li Wei$$^\dagger$$**, Miao Wang, and He Yangbo$$^\dagger$$ (2024). Identification and estimation of causal effects in the presence of confounded principal strata. Statistics in Medicine, 43(22): 4372-4387.
 1. Ma Yuan, Lu Feng, Suo Luodan, **Li Wei**, … (2024). Effectiveness of influenza vaccines in preventing acute cardiovascular events within 1 year in Beijing, China. npj Vaccines, 9: 177.
 1. Ma Yuan, **Li Wei$$^\dagger$$**, Li Juan, Qian Jie, … (2024). Association between influenza vaccination and one-year all-cause and cardiovascular mortality risk: A self-controlled case series and matched case-control study. Journal of Medical Virology, 96(6): e29722.
 1. Shuai Kang, Luo Shanshan, **Li Wei**, and He Yangbo (2024). Identifying causal effects using instrumental variables from the auxiliary dataset. Statistica Sinica, in press.
