@@ -6,11 +6,11 @@ main:
  # - title: "Talks"
  #   url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+ # - title: "Teaching"
+ #   url: /teaching/    
     
-  - title: "Funds&Awards"
-    url: /Funded-Project/
+ # - title: "Funds&Awards"
+ #   url: /Funded-Project/
         
  # - title: "Blog Posts"
 #    url: /year-archive/
