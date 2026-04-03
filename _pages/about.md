@@ -24,6 +24,7 @@ Reaserch Interests
 * Causal Discovery
 * Data Fusion
 * Missing Data
+I am currently recruiting master's and Ph.D. students. Please feel free to contact me by email if you are interested in these research areas.
 
 
 
