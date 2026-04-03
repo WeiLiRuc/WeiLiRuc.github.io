@@ -13,5 +13,5 @@ author_profile: true
 School of Statistics <br>
 Renmin University of China <br>
 59 Zhongguancun Street <br>
-Haidian District <br>
+Haidian District, 100872 <br>
 Beijing, China
