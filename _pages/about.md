@@ -21,15 +21,11 @@ Reaserch Interests
 ======
 My research interests include
 * Causal Inference
-* Causal Discovery 
+* Causal Attribution
+* Causal Discovery
+* Data Fusion
 * Missing Data
-* Data Fusion 
 
-# Prospective Students
-# =====
-
-# Recently News
-# =====
 
 
 
