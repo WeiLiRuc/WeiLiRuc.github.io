@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+About Me
+======
 I am currently an Associate Professor in the School of Statistics at Renmin University of China. Previously, I was a postdoctoral research fellow at Peking University.
 
 Education
@@ -25,7 +27,7 @@ Reaserch Interests
 * Data Fusion
 * Missing Data
 
-**I am currently recruiting master's and Ph.D. students. Please feel free to contact me by email if you are interested in these research areas.**
+**I am recruiting master's and Ph.D. students. Please feel free to contact me by email if you are interested in these research areas.**
 
 
 
