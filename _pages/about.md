@@ -19,7 +19,7 @@ Education
 * 2009.9-2013.6, B.S., School of Mathematical Sciences, Nankai University.
 
 
-Reaserch Interests
+Research Interests
 ======
 * Causal Inference
 * Causal Attribution
