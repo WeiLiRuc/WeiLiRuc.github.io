@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 1. Hu Wenjie, Wang Ruoyu, **Li Wei$$^\dagger$$**, and Miao Wang$$^\dagger$$ (2026). Semiparametric efficient fusion of individual data and summary statistics. *Journal of the American Statistical Association*, in press.
-1. Shuai Kang, Liu Lan, **Li Wei$$^\dagger$$**, and He Yangbo (2026). Mediation analysis with unmeasured confounding between parallel mediators and outcome. *Electronic Journal of Statistics*, in press.
+1. Shuai Kang, Liu Lan, **Li Wei$$^\dagger$$**, and He Yangbo (2026). Mediation analysis with unmeasured confounding between parallel mediators and outcome. *Electronic Journal of Statistics*, 20(1): 1388-1427.
 1. Shan Jiawei, **Li Wei$$^\dagger$$**, and Ai Chunrong (2026). Efficient nonparametric inference for mediation analysis with nonignorable missing confounders. *Journal of the American Statistical Association*, in press.
 1. Zou Jing, **Li Wei$$^\dagger$$**, and Lin Wei$$^\dagger$$ (2026). Semiparametric causal discovery and inference with invalid instruments. *Statistica Sinica*, in press.
 1. **Li Wei**, Liu Jiapeng, Ding Peng, and Geng Zhi (2025). Identification and multiply robust estimation of causal effects via instrumental variables from an auxiliary population. *Journal of the American Statistical Association*, in press.
