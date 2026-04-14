@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+1. Niu Ziang, Gu Yuwen, and **Li Wei$$^\dagger$$** (2026). Estimation and inference for high-dimensional nonparametric additive instrumental-variables regression. *Electronic Journal of Statistics*, in press.
 1. Hu Wenjie, Wang Ruoyu, **Li Wei$$^\dagger$$**, and Miao Wang$$^\dagger$$ (2026). Semiparametric efficient fusion of individual data and summary statistics. *Journal of the American Statistical Association*, in press.
 1. Shuai Kang, Liu Lan, **Li Wei$$^\dagger$$**, and He Yangbo (2026). Mediation analysis with unmeasured confounding between parallel mediators and outcome. *Electronic Journal of Statistics*, 20(1): 1388-1427.
 1. Shan Jiawei, **Li Wei$$^\dagger$$**, and Ai Chunrong (2026). Efficient nonparametric inference for mediation analysis with nonignorable missing confounders. *Journal of the American Statistical Association*, in press.
