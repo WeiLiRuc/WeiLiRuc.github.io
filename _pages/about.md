@@ -28,6 +28,7 @@ Research Interests
 * Missing Data
 
 **I am recruiting master's and Ph.D. students. Please feel free to contact me by email if you are interested in these research areas.**
+中文版请参见[个人主页](http://stat.ruc.edu.cn/jszy/lw/index.html)
 
 
 
