@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+1. **Li Wei**, Duan Rui, and Li Sai (2026). Doubly robust identification for bivariate causal discovery under unmeasured confounding. *Biometrika*, in press.
 1. Luo Shanshan, **Li Wei**, Wang Xueli, Wei Shaojie, and Geng Zhi (2026). Assessing interactive causes of an occurred outcome due to two binary exposures. *Biometrics*, in press.
 1. Niu Ziang, Gu Yuwen, and **Li Wei$$^\dagger$$** (2026). Estimation and inference for high-dimensional nonparametric additive instrumental-variables regression. *Electronic Journal of Statistics*, 20(1): 1593-1647.
 1. Hu Wenjie, Wang Ruoyu, **Li Wei$$^\dagger$$**, and Miao Wang$$^\dagger$$ (2026). Semiparametric efficient fusion of individual data and summary statistics. *Journal of the American Statistical Association*, in press.
