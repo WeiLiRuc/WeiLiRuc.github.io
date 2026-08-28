@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-I am currently an Associate Professor in the School of Statistics at Renmin University of China. Previously, I was a postdoctoral research fellow at Peking University.
+I am a Professor in the School of Statistics at Renmin University of China. Previously, I was a postdoctoral research fellow at Peking University.
 
 Education
 ======
